@@ -1,0 +1,17 @@
+---
+version: 1
+service:
+  name: f
+  lifecycle:
+  tier: garbage
+  product:
+  owner: a
+  language:
+  framework:
+  description:
+  aliases:
+  tags:
+  repositories:
+  tools:
+  dependencies:
+  - alias: test2

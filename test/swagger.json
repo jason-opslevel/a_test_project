@@ -1,5 +1,5 @@
 {
-  "swagger": "2.0",
+  "swagger": "3.1",
   "info": {
     "title": "Uber APIl",
     "description": "Move your app forward with the Uber API",

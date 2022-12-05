@@ -3,7 +3,7 @@ version: 1
 service:
   name: atp
   lifecycle:
-  tier: tier_1
+  tier: tier_2
   product:
   owner: a
   language:

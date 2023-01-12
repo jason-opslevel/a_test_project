@@ -8,7 +8,7 @@ service:
   owner: a
   language:
   framework:
-  description: test7
+  description: test8
   aliases:
   tags:
   repositories:

@@ -16,3 +16,4 @@ service:
   dependencies:
   properties:
     asdf: "asdf"
+    b: "B"
